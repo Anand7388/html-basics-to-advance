@@ -1,8 +1,9 @@
 ﻿# html-basics-to-advance
-<!doctype html>   defines the html version 
-<html lang ="en">  parent of all html tags / roots element
-<head></head>     parent of meta data tags 
-  <title></title>   title of the web page 
-  <body></body>     parent of content tags 
-  <h1></h1>         heading tag 
+0 :-  setup and fundamentals
+1 :- HTML basics
+2 :- must use HTML tags
+3 :- browser tools
+4 :- HTML and project structars 
+5 :- List, tables s frams.
+
 
